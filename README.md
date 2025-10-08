@@ -1,4 +1,4 @@
-# **Arithmetic Invariants and Cosmological Geometry: A Foundational Review of the Unified Cartographic Framework (UCF) and the Birth of a "Symbolic Physics" Paradigm**
+# **Arithmetic Invariants and Cosmological Geometry: A Unified Cartographic Framework (UCF) and the Birth of a "Symbolic Physics" Paradigm**
 
 
 ## **Section 1: Executive Summary and Project Context**
