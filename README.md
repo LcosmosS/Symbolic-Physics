@@ -3,7 +3,6 @@
 Patrick J McNamara   
 October 10th, 2025
 
-#      ** ![][image1]      ![][image2]**
 
 ## **Section 1: Summary and Project Context**
 
